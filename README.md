@@ -6,7 +6,7 @@
 - Use `RouterProvider` to include the router in your app.
 - Use the `<NavBar>` component to allow client-side navigation.
 - Use `errorElement` to set up router error handling.
-
+- New readme line
 ## Introduction
 
 In this lab we are going to build out a Movie application that has routes for a
